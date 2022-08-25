@@ -21,6 +21,10 @@
 
 For more information, see [documentation](https://webapp.utfpr.edu.br/portalAluno/swagger.html) about api.
 
+## Join Us On
+
+<a href="https://discord.gg/YEp9xnUJQz"><img src="docs/assets/discordlogo.png" height="50px"/></a>
+
 ## License
 
 - [GGNU Affero General Public License v3.0](./LICENSE.md)
