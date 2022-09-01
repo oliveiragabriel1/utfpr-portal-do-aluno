@@ -17,6 +17,11 @@
 - Registro de Refeições
 - Histórico
 
+## Design 
+
+<img src="docs/assets/loginscreen.png" height="300px"/>
+
+
 ## API Documentation
 
 For more information, see [documentation](https://webapp.utfpr.edu.br/portalAluno/swagger.html) about api.
