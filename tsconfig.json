@@ -1,0 +1,8 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "strict": true
+  },
+  "exclude": ["__tests__/**/*-test.ts"]
+}
