@@ -19,9 +19,10 @@
 
 ## Design
 
-<img src="assets/splash.png" height="300px"/>
-<img src="docs/assets/loginscreen.png" height="300px"/>
-
+<div>
+  <img src="assets/splash.png" height="300px"/>
+  <img src="docs/assets/loginscreen.png" height="300px"/>
+<div>
 ## API Documentation
 
 For more information, see [documentation](https://webapp.utfpr.edu.br/portalAluno/swagger.html) about api.
