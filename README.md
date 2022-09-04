@@ -17,10 +17,10 @@
 - Registro de Refeições
 - Histórico
 
-## Design 
+## Design
 
+<img src="assets/splash.png" height="300px"/>
 <img src="docs/assets/loginscreen.png" height="300px"/>
-
 
 ## API Documentation
 
